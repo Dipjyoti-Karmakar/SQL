@@ -38,12 +38,13 @@ The SQL script addresses the following analytical scenarios:
 
 ## 🚀 How to Run
 1. Clone the repository
-
+```bash
 git clone https://github.com/Dipjyoti-Karmakar/retail-sales-sql-analytics.git
+````
 
-1.  **Prerequisites:** Ensure you have a SQL environment installed (MySQL Workbench, PostgreSQL, or SQL Server).
-2.  **Import:** Open the `retail_sales_schema.sql` file in your SQL editor.
-3.  **Execute:** Run the script to initialize the database, populate tables, and execute the analysis queries.
+2.  **Prerequisites:** Ensure you have a SQL environment installed (MySQL Workbench, PostgreSQL, or SQL Server).
+3.  **Import:** Open the `retail_sales_schema.sql` file in your SQL editor.
+4.  **Execute:** Run the script to initialize the database, populate tables, and execute the analysis queries.
 
 ## 👤 Author
 **Dipjyoti Karmakar**
