@@ -36,6 +36,39 @@ The SQL script addresses the following analytical scenarios:
 3.  **Inventory Management:** Queried products with low stock levels to trigger re-ordering.
 4.  **Product Trends:** Determined which product categories drive the highest sales volume.
 
+## 🔢 Numerical Findings from Seed Data
+Based on the inserted records in `retail_sales_schema.sql`, the dataset currently contains:
+
+* **Customers:** 30
+* **Products:** 50
+* **Orders:** 400
+* **Payments:** 400
+* **Product Reviews:** 50
+
+### Sales Performance Snapshot
+* **Total Order Revenue:** 6,960,973.66
+* **Average Order Value:** 17,402.43
+* **Highest Order Value:** 48,042.06
+* **Lowest Order Value:** 177.40
+
+### Order Status Distribution
+* **Delivered:** 105 orders
+* **Shipped:** 102 orders
+* **Pending:** 94 orders
+* **Cancelled:** 99 orders
+
+### Product & Inventory Snapshot
+* **Average Product Price:** 2,825.39
+* **Total Stock Units:** 5,102
+* **Average Stock per Product:** 102.04 units
+
+### Product Category Mix
+* **Electronics:** 14 products
+* **Clothing:** 13 products
+* **Home:** 8 products
+* **Toys:** 8 products
+* **Books:** 7 products
+
 ## 🚀 How to Run
 1. Clone the repository
 ```bash
